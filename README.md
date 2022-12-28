@@ -3,6 +3,7 @@
 [Jupyter-Book](https://jupyterbook.org) __Check it out -->__ [![Jupyter Book
 Badge](images/badge.svg)](https://cooperrc.github.io/computational-mechanics/README.html)
 
+## Salutations!
 Greetings!
 
 Thanks for joining us for UConn's Computational Mechanics course.
